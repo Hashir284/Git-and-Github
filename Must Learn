@@ -1,0 +1,123 @@
+Complete Roadmap for Working in a Software Development Team
+1. Git & GitHub (Must Learn)
+
+Git aur GitHub team collaboration ke liye sabse important skills hain.
+
+Git Commands
+git init
+git clone
+git status
+git add
+git commit
+git push
+git pull
+git fetch
+git merge
+git branch
+git switch
+git stash
+git rebase
+Merge Conflicts Resolve Karna
+GitHub Skills
+Repository Create Karna
+Branch Create Karna
+Pull Requests (PRs)
+Code Reviews
+Issues Create Karna
+README File Likhna
+Fork & Collaboration
+Branch Protection Rules
+2. Team Workflow (Very Important)
+
+Team mein developers generally Git Branching Workflow follow karte hain.
+
+Standard Team Workflow
+Main Branch: Stable production code.
+Feature Branch: Apna assigned task implement karna.
+Pull Request (PR): Team se code review karwana.
+Code Review: Team members se code check karwana.
+Merge into Main: Approved code ko main branch mein merge karna.
+3. Docker (Important)
+
+Docker team ke sabhi developers ke development environment ko consistent rakhne mein help karta hai.
+
+Docker Topics
+Docker Images & Containers
+Dockerfile
+Docker Compose
+Docker Volumes
+Docker Networks
+Environment Variables
+Docker Hub
+Container Logs & Debugging
+4. API & Backend Collaboration
+
+Frontend aur backend developers ke darmiyan communication ke liye ye concepts important hain.
+
+Topics
+REST APIs
+HTTP Methods (GET, POST, PUT, PATCH, DELETE)
+HTTP Status Codes
+JSON
+Authentication & Authorization
+Postman
+API Documentation (Swagger / OpenAPI)
+5. Team Communication & Project Management
+
+Team ke saath efficiently kaam karne ke liye:
+
+Jira / Trello
+Slack / Microsoft Teams
+Task Assignment
+Sprint Planning
+Daily Standups
+Code Review Feedback
+Bug Reporting
+6. Testing & Code Quality
+
+Professional development mein code ki quality aur reliability maintain karna zaroori hai.
+
+Topics
+Unit Testing
+Integration Testing
+ESLint
+Prettier
+Debugging
+Basic CI/CD
+Environment Configuration
+7. Learning Priority
+Skill	Priority
+Git & GitHub	Must Learn
+Branching & Merging	Must Learn
+Pull Requests & Code Reviews	Must Learn
+Merge Conflict Resolution	Must Learn
+REST APIs	Must Learn
+Docker & Docker Compose	Important
+Postman	Important
+Testing	Important
+CI/CD	Important
+Jira	Basic Knowledge
+8. Practical Team Project
+
+Sirf theory seekhna enough nahi hai. 2–3 developers ke saath ek real-world project par kaam karo.
+
+Project: Task Management Application
+
+Team Distribution:
+
+Developer 1: React Frontend
+Developer 2: Node.js Backend
+Developer 3: Database & Authentication
+Team Collaboration Workflow
+GitHub par repository create karo.
+Har developer ko separate tasks assign karo.
+Har developer apni feature branch par kaam kare.
+Changes commit aur push kare.
+Pull Request create kare.
+Team members code review karein.
+Approved code ko main branch mein merge karo.
+Docker Compose se complete application run karo.
+Testing aur debugging karo.
+Final Goal
+
+In skills ko practically seekhne ke baad tumhein professional software development team mein collaborate karne, code manage karne, APIs integrate karne aur applications deploy karne ki achhi foundation mil jayegi.

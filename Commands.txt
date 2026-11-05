@@ -1,0 +1,9 @@
+1. git init
+2. git clone <url>
+3. git add index.css index.html OR git add .
+4. git commit   
+5. git config --global user.name "Hashir"
+6. git config --global user.email "onlyforprofile1@gmail.com" 
+7. git log 
+8. git log --oneline
+9. git restore --staged index.css
