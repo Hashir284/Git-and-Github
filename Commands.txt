@@ -1,9 +1,32 @@
-1. git init
-2. git clone <url>
-3. git add index.css index.html OR git add .
-4. git commit   
-5. git config --global user.name "Hashir"
-6. git config --global user.email "onlyforprofile1@gmail.com" 
-7. git log 
-8. git log --oneline
-9. git restore --staged index.css
+git status
+git init
+git clone <url>
+git add index.css index.html OR git add .
+git commit -m "you msg"
+git config --global user.name "Hashir"
+git config --global user.email "onlyforprofile1@gmail.com" 
+git log 
+git log --oneline
+git restore --staged index.css
+
+git branch ui
+git branch 
+git branch -a
+git switch ui
+git switch 
+git branch -d ui
+git switch -c ui
+git merge feature-branch
+
+git stash OR git stash -u
+git stash list
+git stash pop
+git stash apply
+git stash show -p
+git stash drop stash@{0}
+git stash clear ---=>>>>>>>> all delete
+git stash push -m "login work" -u
+
+git tag
+ANNOVATED TAGS: git tag -a v1.0 -m "My release 1"
+lIGHT WEIGHT TAGS: git tag V1.1

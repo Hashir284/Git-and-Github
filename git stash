@@ -1,0 +1,21 @@
+# Current branch check
+git branch
+
+# Changes check
+git status
+
+# Changes save
+git stash push -m "login work" -u
+
+# Switch branch
+git switch feature-dashboard
+
+# Dashboard ka kaam complete karo
+git add .
+git commit -m "dashboard completed"
+
+# Login branch par wapas
+git switch feature-login
+
+# Login changes restore
+git stash pop
