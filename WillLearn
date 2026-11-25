@@ -1,0 +1,22 @@
+git rm --cached "Ecom Electronics"
+git rm --cached "Ecommerce Electronics"
+git rm --cached "Website1.0"
+
+rmdir /s /q "Ecom Electronics\.git"
+rmdir /s /q "Ecommerce Electronics\.git"
+rmdir /s /q "Website1.0\.git"
+
+git add .
+git status
+git commit -m "Add project folders properly"
+git push origin main
+git pull origin main
+
+git fetch origin
+git remote -v
+
+git submodule add REPOSITORY_URL FOLDER_NAME
+git submodule add https://github.com/username/ecommerce.git Ecommerce
+git add .
+git commit -m "Added ecommerce submodule"
+git push origin main
